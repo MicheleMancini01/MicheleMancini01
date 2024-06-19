@@ -1,4 +1,4 @@
-Hello!, My name is Michele
+# Hello!, My name is Michele
 🚀 I am a Front End Developer passionate about creating engaging and intuitive user experiences. With skills in HTML, CSS, JavaScript and modern frameworks.
 
 I am dedicated to building responsive and dynamic web interfaces. Always looking for new challenges, I love to innovate and continually improve my skills.
