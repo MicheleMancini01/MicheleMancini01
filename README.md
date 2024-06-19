@@ -4,8 +4,16 @@
 I am dedicated to building responsive and dynamic web interfaces. Always looking for new challenges, I love to innovate and continually improve my skills.
 
 📫 How to reach me:
+- Linkedin: https://www.linkedin.com/in/michele-mancini-178600297/
+- Email: michelemancini.303@gmail.com
 
-Linkedin: https://www.linkedin.com/in/michele-mancini-178600297/
-Email: michelemancini.303@gmail.com
-🛠 Skills
-Javascript, HTML, CSS, Bootstrap, Typescript, Angular, Node Js, Express, Mysql.
+## 🛠 Skills
+Javascript, 
+HTML, 
+CSS,
+Bootstrap,
+Typescript,
+Angular,
+Node Js,
+Express,
+Mysql.
